@@ -1,0 +1,4 @@
+drug_name,num_prescriber,total_cost
+Allegra,1,10000
+Aspirin,1,20
+Ibuprofen,1,10

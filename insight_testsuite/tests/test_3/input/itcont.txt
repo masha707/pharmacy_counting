@@ -1,0 +1,7 @@
+id,prescriber_last_name,prescriber_first_name,drug_name,drug_cost
+0,sawyer,Tom,Ibuprofen,20
+0,Finn,Huckleberry,Aspirin,20
+0,duck,donald,Acetaminophen,30
+0,Sawyer,Tom,Ibuprofen,10
+0,SAWYER,TOM,Aspirin,10
+0,Duck,Donald,Allegra,10000
