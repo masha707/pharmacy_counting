@@ -10,7 +10,7 @@ Also, the data in the large input file was not "clean", i.e. some drug names and
 
 # How it works 
 
-See comments in pharmacy_counting.py for explanation of how the program works. It's very well organized and commented, so explaining this here would be redundant.
+See comments in ./src/pharmacy_counting.py for explanation of how the program works. It's very well organized and commented, so explaining this here would be redundant.
 
 # How to run the code 
 
